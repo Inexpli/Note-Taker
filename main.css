@@ -59,7 +59,8 @@ textarea {
 }
 
 .note {
-    display: inline-flex;
+    word-break: break-word;
+    display: inline-grid;
     padding: 0.5rem;
     width: 50%;
     min-height: 50px;
@@ -77,4 +78,15 @@ textarea {
 
 #text1 {
     margin: 0;
+}
+
+#delete {
+    margin-top: 0.8rem;
+    font-size: 0.8rem;
+    height: 25px;
+    width: 55px;
+    color: white;
+    background-color: rgb(219, 3, 3);
+    border: 3px solid rgb(219, 3, 3);
+    border-radius: 7px;
 }
