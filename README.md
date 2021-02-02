@@ -1,3 +1,3 @@
 # Note Taker
  
-https://jezjakub.github.io/Note-Taker/
+https://inexpli.github.io/Note-Taker/
